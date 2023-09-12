@@ -15,6 +15,7 @@ I'll try to cover the following 5 components to reach the completed product:
 ## Categories
 ### Functionality
 **Goal Functionality**:	Functionality will be the traditional experience found at a typical bank/ATM.
+
 **Stretch Functionality**: Have Loans, Interest to and against the customer, different accounts (savings/checking) that will incur interest at different rates based on system time.
 
 
