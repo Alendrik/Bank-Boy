@@ -31,7 +31,7 @@ I'll try to cover the following 5 components to reach the completed product:
 	- Input validation and sanitization
 	- Hardened against undesired user behavior.
 	- Logs are kep securely
-	- TSL/SSL are used
+	- TSL/SSL is used
 	- DB is encrypted
 	- etc.
 
